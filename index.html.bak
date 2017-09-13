@@ -289,6 +289,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 													</a>
 												</div>
 											</div>
+											<a href="https://fighter123.github.io/2048">
 											<div class="col-md-4 agileits_agile_about_portfolio_left">
 												<div class="w3_portfolio_grid view second-effect">
 													<a href="images/7.jpg" class="swipebox" title="Ut sit amet convallis ipsum. Nunc tempor quam ex, eget porta sem vehicula sit amet. In eget elit eu eros pharetra ultrices. Integer fringilla tortor id metus condimentum.">
@@ -299,6 +300,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 													</a>
 												</div>
 											</div>
+											</a>
 											<div class="clearfix"> </div>
 										</div>
 										<!-- swipe box js -->
@@ -470,7 +472,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="clearfix"> </div>
 			</div>
 			<div class="agileits_copyright">
-				<p>© 2017 Modern CV. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+				<p>© 2017 | Design by <a href="http://w3layouts.com">W3layouts</a></p>
 			</div>
 		</div>
 	</div>
