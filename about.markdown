@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Gallery of photographs of birds and animals from Wikipedia.
+Gallery of photographs of Harry Potter from Wikipedia.
