@@ -1,5 +1,5 @@
 ---
-title: The Hogwarts Express Train
+title: The Hogwarts
 creator:SunDan and HaoZeng
 licence: CC BY 3.0
 image-url: Alnwickcastle/A1.jpg
