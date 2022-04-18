@@ -1,9 +1,9 @@
 ---
-title: Brown-headed paradise kingfisher
-creator: Mark A. Harper
-licence: CC BY-SA 2.0
-image-url: https://upload.wikimedia.org/wikipedia/commons/b/b1/Brown-headed_Paradise-Kingfisher.jpg
-date: 2 September 2008
+title: St Paul's Cathedral
+creator: Diliff
+licence:  CC BY-SA 3.0
+image-url:https://upload.wikimedia.org/wikipedia/commons/c/cb/St_Pauls_aerial_%28cropped%29.jpg
+date: April 18, 2021
 layout: exhibit
-tags: bird, day, twig
+tags: Harry-Potter
 ---
