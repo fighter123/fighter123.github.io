@@ -34,16 +34,4 @@ layout: index
 </div>
 
 <p style="color: #800080;">“Harry Potter and the Prisoner of Azkaban” —— London</p>
-<div id = "gallery2">
-  {% assign sorted_exhibits2 = site.exhibits2 | sort: "date" %}
-  {% for exhibit2 in sorted_exhibits2 %}
-    {% assign licence_url = site.data.licences | find: "licence", exhibit2.licence %}
-    {% assign creator = site.data.creators | find: "name", exhibit2.creator %}
-    <div class = "grid_cell">
-      <a href = "{{ exhibit2.url | relative_url }}"><img src="{{ exhibit2.image-url }}" class="gallery_thumb"></a>
-      <p class = "caption"><a href = "{{ exhibit2.url | relative_url }}">{{ exhibit2.title }}</a> by <a href = "{{ creator.homepage }}">{{ exhibit2.creator }}</a></p>
-      <p><a href="{{ licence_url.url }}">{{ exhibit2.licence }}</a></p>
-    </div>
-  {% endfor %}
-  
-</div>
+
