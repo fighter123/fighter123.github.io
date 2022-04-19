@@ -34,8 +34,11 @@ plugins:
   - jekyll-sitemap
 collections:
   exhibits:
+    output: true
   exhibits1:
+    output: true
   exhibits2:
+    output: true
   exhibits3:
     output: true
 # Exclude from processing.
