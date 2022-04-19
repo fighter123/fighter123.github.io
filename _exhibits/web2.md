@@ -8,5 +8,5 @@ Address: Thames Head, Gloucestershire, UK
 Address: London, SW1A 2JR, UK
 date: 7 June 2018
 layout: exhibit
-tags: none
+tags: https://www.google.com/maps/search/Thames+River/@51.5691443,-1.7302723,8z/data=!3m1!4b1!4m5!2m4!5m3!5m2!4m1!1i2
 ---
