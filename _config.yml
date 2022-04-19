@@ -35,6 +35,7 @@ plugins:
 collections:
   exhibits:
   exhibits1:
+  exhibits2:
     output: true
 # Exclude from processing.
 # The following items will not be processed, by default.
