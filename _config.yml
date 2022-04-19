@@ -34,6 +34,7 @@ plugins:
   - jekyll-sitemap
 collections:
   exhibits:
+  exhibits1:
     output: true
 # Exclude from processing.
 # The following items will not be processed, by default.
