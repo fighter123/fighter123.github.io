@@ -20,7 +20,7 @@
             {% assign licence = site.data.licences | find: "licence", page.licence %}
             {% assign creator = site.data.creators | find: "name", page.creator %}
             <img src = "{{ page.image-url }}" id = "exhibit">
-            <p>Tags: {{ page.content }}</p>
+            <p>jianjie: {{ page.content }}</p>
             <p>{{ page.title }} by <a href = "{{ creator.homepage }}">{{ page.creator }}</a></p>
             <p>{{ page.date | date: "%d %B %Y"}}</p>
             <p><a href="{{ licence.url }}">{{ page.licence }}</a></p>
