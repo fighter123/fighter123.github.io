@@ -16,10 +16,10 @@ Find cheap air tickets ✈️: Skyscanner to check air tickets https://www.skysc
 UK small itinerary and ticket reservation: KKDay｜KLOOK
 Kkday
 https://www.kkday.com/zh-tw/country/united-kingdom?cid=7315
-Klook https://www.klook.com/en-GB/?aid=7015&aff_adid=574445&aff_label1=klook&aff_label2=Reusable%20Block&aff_label3=&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=7015&utm_term=&utm_content=
+Klook https://www.klook.com/en-GB
 
 Find cheap room rates: Booking.com
-Booking.com：https://www.booking.com/searchresults.en-us.html?aid=1825182;sid=d838a44be65555ffb3735c9537f963d0;class_interval=1&dest_id=1706&dest_type=region&dtdisc=0&group_adults=2&inac=0&index_postcard=0&keep_landing=1&label_click=undef&no_rooms=1&offset=0&postcard=0&region=1706&room1=A%2CA&sb_price_type=total&shw_aparth=1&slp_r_match=0&ss_all=0&ssb=empty&sshis=0&
+Booking.com：https://www.booking.com/searchresults.en-us.html
  It is recommended to use Get Your Guide to buy tickets for European attractions, because it is very convenient to manage tickets or refund!
 Get Your Guide: London Attractions
-https://www.getyourguide.com/london-l57?partner_id=YB1TD84&utm_medium=online_publisher&placement=content-middle&cmp=repeat-block&deeplink_id=56678e81-e96c-5eae-91f0-dbc9878947f2
+https://www.getyourguide.com/london-l57
