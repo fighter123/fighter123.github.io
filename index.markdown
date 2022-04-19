@@ -15,7 +15,8 @@ layout: index
       <p><a href="{{ licence_url.url }}">{{ exhibit.licence }}</a></p>
     </div>
   {% endfor %}
-  
+ <div id = "gallery">
+ </div>
   {% assign sorted_exhibits = site.exhibits | sort: "date" %}
   {% for exhibit in sorted_exhibits %}
     {% assign licence_url = site.data.licences | find: "licence", exhibit.licence %}
