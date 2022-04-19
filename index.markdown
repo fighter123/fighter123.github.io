@@ -17,3 +17,4 @@ layout: index
   {% endfor %}
   
 </div>
+<p style="color: #800080;">“Mysterious Philosopher's Stone” —— London</p>
