@@ -20,13 +20,14 @@
             {% assign licence = site.data.licences | find: "licence", page.licence %}
             {% assign creator = site.data.creators | find: "name", page.creator %}
             <img src = "{{ page.image-url }}" id = "exhibit">
+            <p>Tags: {{ page.content }}</p>
             <p>{{ page.title }} by <a href = "{{ creator.homepage }}">{{ page.creator }}</a></p>
             <p>{{ page.date | date: "%d %B %Y"}}</p>
             <p><a href="{{ licence.url }}">{{ page.licence }}</a></p>
             <p>Tags: {{ page.tags }}</p>
         </div>
         <div id = "footer">
-            <p>Created with <a href = "https://jekyllrb.com/">Jekyll</a> for teaching purposes by <a href = "https://github.com/daniel-allington">Daniel Allington</a> in 2021</p>
+            <p>Created with <a href="https://jekyllrb.com/">Jekyll</a> for teaching purposes by <a href="https://github.com/Chelsea0806/Film-Location-Archive-2">Chelsea0806</a> in 2022</p>
         </div>
     </div>
 </body>
