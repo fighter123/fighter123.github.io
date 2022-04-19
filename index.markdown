@@ -2,10 +2,9 @@
 title: Gallery index
 layout: index
 ---
-
+<p>Famous movie scenes from Harry Potter filmed in London </p>
+<p>“Harry Potter and the Order of the Phoenix” —— London</p>
 <div id = "gallery">
-  <p stytle="width=100%">Famous movie scenes from Harry Potter filmed in London </p>
-  <p stytle="width=100%">“Harry Potter and the Order of the Phoenix” —— London</p>
   {% assign sorted_exhibits = site.exhibits | sort: "date" %}
   {% for exhibit in sorted_exhibits %}
     {% assign licence_url = site.data.licences | find: "licence", exhibit.licence %}
