@@ -19,7 +19,7 @@ layout: index
 </div>
 
 <p style="color: #800080;">“Mysterious Philosopher's Stone” —— London</p>
-<div id = "gallery">
+<div id = "gallery1">
   {% assign sorted_exhibits1 = site.exhibits1 | sort: "date" %}
   {% for exhibit1 in sorted_exhibits1 %}
     {% assign licence_url = site.data.licences | find: "licence", exhibit.licence %}
