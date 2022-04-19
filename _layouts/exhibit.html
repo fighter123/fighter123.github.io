@@ -19,7 +19,7 @@
         <div id = "content">
             {% assign licence = site.data.licences | find: "licence", page.licence %}
             {% assign creator = site.data.creators | find: "name", page.creator %}
-            <img src = "{{ page.image-url }}" id = "exhibit">
+            <img style="width: 50%;" src = "{{ page.image-url }}" id = "exhibit">
             <p>{{ page.contents }}</p>
             <p>{{ page.title }} by <a href = "{{ creator.homepage }}">{{ page.creator }}</a></p>
             <p><a href="{{ licence.url }}">{{ page.licence }}</a></p>
