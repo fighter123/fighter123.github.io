@@ -3,7 +3,8 @@ title: Great Scotland Yard
 creator: R Sones
 licence:  CC BY-SA 2.0
 image-url: https://upload.wikimedia.org/wikipedia/commons/3/3a/Great_Scotland_Yard_SW1_-_geograph.org.uk_-_1623573.jpg
-contents: Westminster station is located in central London, on the north bank of the Thames River.Westminster underground station is one of the main film locations for "Harry Potter and the Order of the Phoenix".Harry Potter and Mr. Weasley passed through Westminster underground station when they were on their way to the Ministry of Magic for interrogation. Mr. Weasley was excited to see the "Muggle" turnstile gate in the station, although he met problems using his ticket at the turnstile gate.The station is located next to London's wonderful sites such as the Big Ben, Houses of Parliament and Downing Street.
+contents:Great Scotland Yard is a street in Westminster, LondonIn "Harry Potter and the Half-Blood Prince" , when Harry and Mr. Weasley went to a hearing for using magic in front of Muggles, they entered the Ministry of Magic through a red telephone booth here. In "Harry Potter and the Order of the Phoenix", Weasley also took Harry through here to enter the Ministry of Magic and attend disciplinary hearings.
+The point of entry into the Ministry of Magic is at the junction of Scotland Square and Great Scotland Yard. Unfortunately, the red telephone booth is only a filming prop. If visitors come to sightseeing, they will not see the red telephone booth.
 Address: London, SW1A 2JR, UK
 date: 7 June 2018
 layout: exhibit
