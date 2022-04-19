@@ -4,7 +4,7 @@ layout: index
 ---
 
 <div id = "gallery">
-  
+  Famous movie scenes from Harry Potter filmed in London
   {% assign sorted_exhibits = site.exhibits1 | sort: "date" %}
   {% for exhibit in sorted_exhibits %}
     {% assign licence_url = site.data.licences | find: "licence", exhibit.licence %}
