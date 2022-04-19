@@ -47,3 +47,19 @@ layout: index
   {% endfor %}
   
 </div>
+
+
+<p style="color: #800080;">“Harry Potter and the Chamber of Secrets” —— London</p>
+<div id = "gallery3">
+  {% assign sorted_exhibits3 = site.exhibits3 | sort: "date" %}
+  {% for exhibit3 in sorted_exhibits3 %}
+    {% assign licence_url = site.data.licences | find: "licence", exhibit3.licence %}
+    {% assign creator = site.data.creators | find: "name", exhibit3.creator %}
+    <div class = "grid_cell">
+      <a href = "{{ exhibit3.url | relative_url }}"><img src="{{ exhibit3.image-url }}" class="gallery_thumb"></a>
+      <p class = "caption"><a href = "{{ exhibit3.url | relative_url }}">{{ exhibit3.title }}</a> by <a href = "{{ creator.homepage }}">{{ exhibit3.creator }}</a></p>
+      <p><a href="{{ licence_url.url }}">{{ exhibit3.licence }}</a></p>
+    </div>
+  {% endfor %}
+  
+</div>
