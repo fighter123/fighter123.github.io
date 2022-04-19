@@ -3,7 +3,7 @@ title: London Zoo
 creator: Chmee2
 licence:   CC BY-SA 3.0
 image-url: https://upload.wikimedia.org/wikipedia/commons/8/8c/ZSL_London_Zoo_in_the_Regent%27s_Park_in_London%2C_June_2013.jpg
-contents: Westminster station is located in central London, on the north bank of the Thames River.Westminster underground station is one of the main film locations for "Harry Potter and the Order of the Phoenix".Harry Potter and Mr. Weasley passed through Westminster underground station when they were on their way to the Ministry of Magic for interrogation. Mr. Weasley was excited to see the "Muggle" turnstile gate in the station, although he met problems using his ticket at the turnstile gate.The station is located next to London's wonderful sites such as the Big Ben, Houses of Parliament and Downing Street.
+contents: At the beginning of the first "Mysterious Philosopher's Stone", Harry looked at the snake in the glass and found that he could understand the snake's speech because the family was going to the zoo for his cousin Dali's birthday. This picture is super classic, and it also paved the way for Harry to understand crawling and talking. The scene was shot in the History of the Reptile House, the amphibian museum in London Zoo.
 Address: London, SW1A 2JR, UK
 date: 7 June 2018
 layout: exhibit
