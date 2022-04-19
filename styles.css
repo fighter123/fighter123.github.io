@@ -55,6 +55,10 @@ a:hover {
     align-self: baseline;
 }
 
+.grid_cell img{
+    height: 190px;
+}
+
 @media (min-width: 600px) {
     #gallery { 
         grid-template-columns: repeat(2, 275px); 
