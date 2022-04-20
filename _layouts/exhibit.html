@@ -17,6 +17,7 @@
             </nav>
         </div>
         <div id = "content">
+            <br>
             {% assign licence = site.data.licences | find: "licence", page.licence %}
             {% assign creator = site.data.creators | find: "name", page.creator %}
             <img style="width: 50%;" src = "{{ page.image-url }}" id = "exhibit">
