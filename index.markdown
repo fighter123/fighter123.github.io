@@ -63,3 +63,33 @@ layout: index
   {% endfor %}
   
 </div>
+
+<p style="color: #800080;">“Harry Potter and the Deathly Hallows” —— London</p>
+<div id = "gallery4">
+  {% assign sorted_exhibits4 = site.exhibits4 | sort: "date" %}
+  {% for exhibit4 in sorted_exhibits4 %}
+    {% assign licence_url = site.data.licences | find: "licence", exhibit4.licence %}
+    {% assign creator = site.data.creators | find: "name", exhibit4.creator %}
+    <div class = "grid_cell">
+      <a href = "{{ exhibit4.url | relative_url }}"><img src="{{ exhibit4.image-url }}" class="gallery_thumb"></a>
+      <p class = "caption"><a href = "{{ exhibit4.url | relative_url }}">{{ exhibit4.title }}</a> by <a href = "{{ creator.homepage }}">{{ exhibit4.creator }}</a></p>
+      <p><a href="{{ licence_url.url }}">{{ exhibit4.licence }}</a></p>
+    </div>
+  {% endfor %}
+  
+</div>
+
+<p style="color: #800080;">“The Betrayal of the Half-Blood Prince” —— London</p>
+<div id = "gallery5">
+  {% assign sorted_exhibits5 = site.exhibits5 | sort: "date" %}
+  {% for exhibit5 in sorted_exhibits5 %}
+    {% assign licence_url = site.data.licences | find: "licence", exhibit5.licence %}
+    {% assign creator = site.data.creators | find: "name", exhibit5.creator %}
+    <div class = "grid_cell">
+      <a href = "{{ exhibit5.url | relative_url }}"><img src="{{ exhibit5.image-url }}" class="gallery_thumb"></a>
+      <p class = "caption"><a href = "{{ exhibit5.url | relative_url }}">{{ exhibit5.title }}</a> by <a href = "{{ creator.homepage }}">{{ exhibit5.creator }}</a></p>
+      <p><a href="{{ licence_url.url }}">{{ exhibit5.licence }}</a></p>
+    </div>
+  {% endfor %}
+  
+</div>
