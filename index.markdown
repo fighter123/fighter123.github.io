@@ -1,5 +1,5 @@
 ---
-title: Gallery index
+title: archive
 layout: index
 ---
 <p>Famous movie scenes from Harry Potter filmed in London </p>
