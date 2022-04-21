@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Simple Gallery
-email: daniel.allington@kcl.ac.uk
+title: archive
+email: k21032503@kcl.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Simple gallery featuring images from Wikipedia.
+  Famous movie scenes from Harry Potter filmed in London.
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://simple-gallery-3.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chelsea0806.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # In order to deploy a version of this site online, you will first need to insert your intended URL
 
